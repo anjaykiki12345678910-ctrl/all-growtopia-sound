@@ -1,0 +1,342 @@
+> Negative Playmod IDs (Effects & Debuffs)
+ID	Name
+
+0	Duct Tape
+-1	Ninja
+-9	Ghost
+-10	Silence
+-13	Egged
+-15	Broadcast CD
+-17	Soaked
+-18	Medusa (Turn Rock)
+-19	Winter Crown Red
+-20	Winter Green
+-23	Extra Chance GHC
+-24	Spotlight
+-25	Radiation
+-26	Locks Restrict
+-27	Shrinking
+-28	Giantastic
+-30	Blueberry
+-31	Block Place
+-32	Block Break
+-33	Ghost Mind
+-35	Superbreak
+-36	Superbreak CD
+-37	More Gems 30%
+-38	More Gems CD
+-39	SDB CD
+-43	Name C CD
+-44	Recov Surg CD
+-45	Malpractice CD
+-46	Steady Hand
+-47	Skill Spice
+-48	More XP from Surg
+-49	Lupus
+-50	Chaos Inf
+-51	Fatty Liv
+-52	Moldy Guts
+-53	Ecto B
+-54	Brainworm
+-55	Broken Heart
+-56	Chicken Feet
+-57	Grumbleteeth
+-58	Gems Cut
+-59	Torn Punch
+-65	More Gems 20%
+-66	More Gems 30% Golden Luck
+-67	More Gems 30% & 1 Hit
+-68	Easter Basket CD
+-70	Mine Coin CD
+-75	Ban
+-76	Ninja 2
+-78	Sprite Eff Yellow
+-79	Sprite Eff Blue
+-80	Sprite Eff Green
+-81	Frozen
+-83	Time Skip CD
+-84	Coffee
+-87	Tomato
+-88	Extra XP for All 25%
+-89	Energy Ball 1
+-90	Energy Ball 2
+-91	Energy Ball 3
+-92	Energy Ball 4
+-93	Cursed
+-94	10% Chance Gems Break
+-97	Autofarm in Front
+-98	Autofarm Magplant
+-99	Spam
+-100	Auto Pull Join
+-101	Auto Plant
+-102	Auto Fishing
+-103	Antibounce
+-104	Cheat Mod Fly
+-105	Super Speed
+-106	Gravity
+-107	Fast Drop
+-108	Fast Trash
+-109	No Gem Drop
+-110	Spikeproof
+-111	Crole Active
+-112	No Particle
+-113	Lock Autofarm
+-114	G-Virus
+-115	G-Virus Immune
+-500	Ninja Warp
+-501	Charged Rayman
+-502	Access /Ghost
+-503	Ghost Immune
+-1000	Chat CD
+-1100	Green Beer
+
+> Positive Playmod IDs (Cosmetic & Effect Variants)
+ID	Name	Notes
+
+1	Stinky	
+2	Frozen	
+96	Fist of Fury	
+98	Enhance Digging	
+138	Bast Block Further	
+156	Double Jump	
+160	High Jump	
+240	Cheerful Giver	
+250	Asbestos Boot	
+274	Freeze	
+290	Ninja Stealth	
+362	Double Jump	
+366	Bast Block Further Cupid	
+440	Dragonborn	
+472	Armed and Dangerous	
+496	Speedy	
+504	Bunnyesque	
+592	Speedy	
+678	Double Jump	
+692	Iron Mask Silence	
+734	Enhance Digging	
+736	Double Jump	
+760	Speedy	
+766	Speedy	
+800	Otherworldly	
+802, 804, 806, 808, 812	Fist of Fury	Multiple IDs
+818, 820	Double Jump	Multiple IDs
+844	Swim Faster Walk Slower	
+898	Tractor	
+900	Dragonborn Small	
+910	Frankenpunch	
+930	Death to Block Punch DMG	
+1012	Speedy	
+1016	Armed and Dangerous	
+1018	Speedy	
+1140	High Jump	
+1166	Double Jump	
+1170	Transylvanian Accent	
+1176	Speedy	
+1178	Speedy	
+1204	Feye	
+1206	Double Jump	
+1216	Mark of Growganoth	Like Noface
+1250	Frankenpunch	
+1272, 1274, 1320	Speedy	Multiple IDs
+1330	Fist of Fury	
+1378	Dragonborn	
+1438	Enhanced Digging	
+1440	Space Commander	
+1444	Icy Flesh	
+1460	Double Jump	
+1464	Cupid Fire Power	
+1484	Black Lightning	
+1496	Speedy	
+1512	Rainbows	
+1542	Fishy	
+1550	Double Jump Bubble Wing	
+1574	Double Jump	
+1576	Dragonborn Happenin’	
+1582	Speedy	
+1648	Rainbow	
+
+> Item Categories
+
+0	All Items (without unbreakable items)
+2	Permanent Item
+4	Special Items (unbreakable items)
+5	Icon
+6	Special Clothes
+7	Valhowla Treasure
+8	Colored Items Type
+16	Public
+32	Modded Items
+34	Foreground Animated
+40	Heroic Boots
+64	Holiday
+66	Weather (Holiday)
+72	Gummy Bear
+96	Holiday
+128	Untradable
+130	Beta
+132	Autopickup
+133	Beta
+134	Reward Block
+160	???
+164	Beta
+
+> Action Types
+
+0	Fist
+1	Wrench
+2	Door
+3	Lock
+4	Gems
+5	Treasure/Gacha
+6	Spike/Deathly Block
+7	Bouncy (Jump)
+8	Consumable
+9	Entrance
+10	Sign
+11	Animated/Sound Block
+12	Sound/Music Block (Jammer)
+13	Main Door
+14	Non-solid Foreground (No Collision/Platform)
+15	Unbreakable Item (Bedrock etc.)
+16	Lava
+17	Solid Foreground
+18	Non-solid Background
+19	Seed
+20	All Clothes
+21	Animated Foreground
+22	Animated Background (When Walk Onto)
+23	Animated Background (When Punched)
+24	Bouncy (Pinball)
+25	Spike V2
+26	Portal
+27	Checkpoint
+28	Music Note
+29	Sliding Block
+31	Gate (Open Close)
+32	Chest (Open Close)
+33	Mailbox
+34	Public Board
+35	Piñata
+36	Dice/Roshambo
+37	Component Item
+38	Provider
+39	Combiner
+40	Achievement Block
+41	Weather
+42	Scoreboard
+43	Sungate
+44	Profile
+45	Deadly Block (When Active)
+46	Heart Monitor
+47	Donation Box
+49	Mannequin
+50	CCTV
+51	Bunny Egg
+52	Game Block
+53	Game Generator
+54	Xenonite Crystal
+55	Booth
+56	Crystal
+57	Crime
+58	Compactor/Grinder
+59	Spotlight
+60	Push Block (Wind)
+61	Display Block
+62	Vending Machine
+63	Fish Tank Port
+64	Fish/Lobster
+65	Solar Collector
+66	Forge
+67	Giving Tree
+68	Giving Tree Stump
+69	Steam Block V1
+70	Steam Vent
+71	Steam Organ
+72	Silkworm
+73	Sewing Machine
+74	Country Flag
+75	Lobster Trap
+76	Painting Easel
+77	Battle Cage
+78	Pet Battle NPC
+79	Steam Engine
+80	Lock-Bot
+81	Weather Machine V2
+82	Spirit Storage Unit
+83	Display Shelf
+84	VIP Entrance
+85	Challenge Timer
+86	Challenge Flag
+87	Fish Mount
+88	Portrait
+89	Weather Machine V3
+90	Fossil Rock
+91	Fossil Prep Station
+92	DNA Processor
+93	Howler/Trickster
+94	Valhowla Treasure
+95	Chemsynth Processor
+96	Chemsynth Tank
+97	Storage Box
+98	Oven
+99	Audio Gear
+100	Geiger Charger
+101	ADV Begin
+102	Tomb Robber
+103	Balloon O Matic
+104-106	Balloon Entrance
+107	Ancestral
+108	Bouncy V2
+109	Training Port
+110	Ice Crust/Uranium
+111	Collect Machine
+112	Magplant Remote
+113	Bot (Spike, Flame, Shock, Shooter)
+114	Bot Command
+115	Lucky Token
+116	Growscan
+117	Power Node
+118	Spirit Board
+119	World Architect
+120	Starship Uses
+122	Miscellaneous
+123	Tesseract Man
+124	Heart of Gaia
+125	Techno-Organic
+126	Storm Cloud
+127	Animated Foreground (While Standing On)
+128	Mud Block (Low Jump + Slow)
+129	Bountiful Root
+130	Safe Vault
+131	Counting Cloud
+132	Explosive (When Punched)
+134	Infinity Weather
+135	Ghost Block
+136	Acid
+138	Arm Guy
+140	Pine Guzzler
+141	Kranken Block
+142	Friend Entrance
+144	Conveyor Belt
+145	Climbing Side
+
+> Editable Types
+
+0	(None)
+1	Flipped
+2	Editable
+3	Editable
+4	Seedless
+5	(None)
+6	(None)
+9	ATM
+10	World Lock-Limited
+11	World Lock-Limited
+12	Ultra Trophy 3001
+14	Lock
+20-23	Editable
+28-31	Editable
+36	Editable
+52	Editable
+64-66	Editable
+74	Editable
